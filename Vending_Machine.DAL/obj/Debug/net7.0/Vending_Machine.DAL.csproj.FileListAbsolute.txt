@@ -1,0 +1,14 @@
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.DAL\bin\Debug\net7.0\Vending_Machine.DAL.deps.json
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.DAL\bin\Debug\net7.0\Vending_Machine.DAL.runtimeconfig.json
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.DAL\bin\Debug\net7.0\Vending_Machine.DAL.dll
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.DAL\bin\Debug\net7.0\Vending_Machine.DAL.pdb
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.DAL\obj\Debug\net7.0\Vending_Machine.DAL.csproj.AssemblyReference.cache
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.DAL\obj\Debug\net7.0\Vending_Machine.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.DAL\obj\Debug\net7.0\Vending_Machine.DAL.AssemblyInfoInputs.cache
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.DAL\obj\Debug\net7.0\Vending_Machine.DAL.AssemblyInfo.cs
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.DAL\obj\Debug\net7.0\Vending_Machine.DAL.csproj.CoreCompileInputs.cache
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.DAL\obj\Debug\net7.0\Vending_Machine.DAL.dll
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.DAL\obj\Debug\net7.0\refint\Vending_Machine.DAL.dll
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.DAL\obj\Debug\net7.0\Vending_Machine.DAL.pdb
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.DAL\obj\Debug\net7.0\Vending_Machine.DAL.genruntimeconfig.cache
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.DAL\obj\Debug\net7.0\ref\Vending_Machine.DAL.dll

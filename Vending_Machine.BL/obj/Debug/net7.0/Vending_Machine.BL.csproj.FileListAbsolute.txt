@@ -1,0 +1,15 @@
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.BL\bin\Debug\net7.0\Vending_Machine.BL.deps.json
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.BL\bin\Debug\net7.0\Vending_Machine.BL.dll
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.BL\bin\Debug\net7.0\Vending_Machine.BL.pdb
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.BL\bin\Debug\net7.0\Vending_Machine.DAL.dll
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.BL\bin\Debug\net7.0\Vending_Machine.DAL.pdb
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.BL\obj\Debug\net7.0\Vending_Machine.BL.csproj.AssemblyReference.cache
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.BL\obj\Debug\net7.0\Vending_Machine.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.BL\obj\Debug\net7.0\Vending_Machine.BL.AssemblyInfoInputs.cache
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.BL\obj\Debug\net7.0\Vending_Machine.BL.AssemblyInfo.cs
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.BL\obj\Debug\net7.0\Vending_Machine.BL.csproj.CoreCompileInputs.cache
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.BL\obj\Debug\net7.0\Vending_Machine.BL.csproj.CopyComplete
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.BL\obj\Debug\net7.0\Vending_Machine.BL.dll
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.BL\obj\Debug\net7.0\refint\Vending_Machine.BL.dll
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.BL\obj\Debug\net7.0\Vending_Machine.BL.pdb
+C:\Users\idsc\Desktop\Khaled Badawy\interview Challenges\Flapkap\Vending_Machine\Vendoing_Machine.APIs\Vending_Machine.BL\obj\Debug\net7.0\ref\Vending_Machine.BL.dll

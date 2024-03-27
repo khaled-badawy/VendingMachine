@@ -1,0 +1,162 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\idsc\\Desktop\\Khaled Badawy\\Khaled Badawy\\interview Challenges\\Flapkap\\Vending_Machine\\Vendoing_Machine.APIs\\Vending_Machine.BL\\Vending_Machine.BL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\idsc\\Desktop\\Khaled Badawy\\Khaled Badawy\\interview Challenges\\Flapkap\\Vending_Machine\\Vendoing_Machine.APIs\\Vending_Machine.BL\\Vending_Machine.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\idsc\\Desktop\\Khaled Badawy\\Khaled Badawy\\interview Challenges\\Flapkap\\Vending_Machine\\Vendoing_Machine.APIs\\Vending_Machine.BL\\Vending_Machine.BL.csproj",
+        "projectName": "Vending_Machine.BL",
+        "projectPath": "C:\\Users\\idsc\\Desktop\\Khaled Badawy\\Khaled Badawy\\interview Challenges\\Flapkap\\Vending_Machine\\Vendoing_Machine.APIs\\Vending_Machine.BL\\Vending_Machine.BL.csproj",
+        "packagesPath": "C:\\Users\\idsc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\idsc\\Desktop\\Khaled Badawy\\Khaled Badawy\\interview Challenges\\Flapkap\\Vending_Machine\\Vendoing_Machine.APIs\\Vending_Machine.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\idsc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\idsc\\Desktop\\Khaled Badawy\\Khaled Badawy\\interview Challenges\\Flapkap\\Vending_Machine\\Vendoing_Machine.APIs\\Vending_Machine.DAL\\Vending_Machine.DAL.csproj": {
+                "projectPath": "C:\\Users\\idsc\\Desktop\\Khaled Badawy\\Khaled Badawy\\interview Challenges\\Flapkap\\Vending_Machine\\Vendoing_Machine.APIs\\Vending_Machine.DAL\\Vending_Machine.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\idsc\\Desktop\\Khaled Badawy\\Khaled Badawy\\interview Challenges\\Flapkap\\Vending_Machine\\Vendoing_Machine.APIs\\Vending_Machine.DAL\\Vending_Machine.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\idsc\\Desktop\\Khaled Badawy\\Khaled Badawy\\interview Challenges\\Flapkap\\Vending_Machine\\Vendoing_Machine.APIs\\Vending_Machine.DAL\\Vending_Machine.DAL.csproj",
+        "projectName": "Vending_Machine.DAL",
+        "projectPath": "C:\\Users\\idsc\\Desktop\\Khaled Badawy\\Khaled Badawy\\interview Challenges\\Flapkap\\Vending_Machine\\Vendoing_Machine.APIs\\Vending_Machine.DAL\\Vending_Machine.DAL.csproj",
+        "packagesPath": "C:\\Users\\idsc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\idsc\\Desktop\\Khaled Badawy\\Khaled Badawy\\interview Challenges\\Flapkap\\Vending_Machine\\Vendoing_Machine.APIs\\Vending_Machine.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\idsc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
